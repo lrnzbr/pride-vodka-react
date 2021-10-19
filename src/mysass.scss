@@ -1,0 +1,66 @@
+$myColor: red;
+$textPurple: #321470;
+$buttonPurple: #9143C5;
+$navLinkOrange: #FF7577;
+$offSetGray: #C4C4C4;
+$logoPurple: #9D216D;
+$logoBlue: #21B0E6;
+$logoGreen: #277B3D;
+$logoOrange: #EA7524;
+$logoRed: #D32027;
+$darkModeTextPurple: #722EFD;
+$darkModeButtonPurple: #BF60FF;
+$darkModeGray: #E4E3E3;
+$black: #000000;
+$white: #FFFFFF;
+
+a:hover {
+  color: $myColor;
+}
+
+h1 {
+    color: $textPurple;
+    margin-bottom: 250px;
+    font-family: 'FlashBack';
+    font-size: 5.5em;
+}
+
+h2 {
+    color: $offSetGray;
+    margin-bottom: 25px;
+    font-family: 'Nunito-Bold';
+    font-size: 1.5em;
+    font-weight: 700;
+
+}
+
+p {
+    margin-left: 12px;
+    margin-right: 12px;
+    font-family: 'Nunito-Regular';
+    font-weight: 700;
+    font-size: 24px; 
+}
+img {
+    object-fit: contain;
+}
+
+button{
+    background-color: $buttonPurple;
+    border-color: $white;
+    border-width: 2px;
+    border-radius: 6px;
+    max-width: 400px;
+    color: white;
+    font-family: 'Nunito-Regular';
+}
+button:hover{
+    background-color: $white;
+    border-color: $buttonPurple;
+    border-width: 2px;
+    border-radius: 6px;
+    max-width: 400px;
+    color: $buttonPurple;
+    font-family: 'Nunito-Regular';
+
+}
