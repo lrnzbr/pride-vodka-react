@@ -30,7 +30,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn run build",
-    "deploy": "pride-vodka-react -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
