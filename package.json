@@ -1,7 +1,8 @@
 {
-  "name": "trello-clone",
+  "name": "pride-vodka-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://lrnzbr.github.io/pride-vodka-react",
   "dependencies": {
     "@mui/material": "^5.0.4",
     "@mui/styled-engine-sc": "^5.0.3",
@@ -27,7 +28,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn run build",
+    "deploy": "pride-vodka-react -d build"
   },
   "eslintConfig": {
     "extends": [
