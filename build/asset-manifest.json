@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68a25646.chunk.css",
+    "main.js": "/static/js/main.83558c7c.chunk.js",
+    "main.js.map": "/static/js/main.83558c7c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.313dad0e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.313dad0e.js.map",
+    "static/js/2.28d4ed8a.chunk.js": "/static/js/2.28d4ed8a.chunk.js",
+    "static/js/2.28d4ed8a.chunk.js.map": "/static/js/2.28d4ed8a.chunk.js.map",
+    "static/js/3.4154625c.chunk.js": "/static/js/3.4154625c.chunk.js",
+    "static/js/3.4154625c.chunk.js.map": "/static/js/3.4154625c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.68a25646.chunk.css.map": "/static/css/main.68a25646.chunk.css.map",
+    "static/js/2.28d4ed8a.chunk.js.LICENSE.txt": "/static/js/2.28d4ed8a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Parisine-Regular.9cb41c9e.otf",
+    "static/media/LightLogo.05916232.svg": "/static/media/LightLogo.05916232.svg",
+    "static/media/Logo_Dark.4589c5f1.svg": "/static/media/Logo_Dark.4589c5f1.svg",
+    "static/media/bottleOnDarkNeon.45f110db.jpeg": "/static/media/bottleOnDarkNeon.45f110db.jpeg",
+    "static/media/bottleOnWhite.d5346128.jpeg": "/static/media/bottleOnWhite.d5346128.jpeg",
+    "static/media/bottleShowingQRCode.e51337c7.png": "/static/media/bottleShowingQRCode.e51337c7.png",
+    "static/media/facebook_white.382d8419.png": "/static/media/facebook_white.382d8419.png",
+    "static/media/instagram_white.c10286d1.png": "/static/media/instagram_white.c10286d1.png",
+    "static/media/twitter_white.ed0b1f9a.png": "/static/media/twitter_white.ed0b1f9a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.313dad0e.js",
+    "static/js/2.28d4ed8a.chunk.js",
+    "static/css/main.68a25646.chunk.css",
+    "static/js/main.83558c7c.chunk.js"
+  ]
+}
