@@ -1,2 +1,2 @@
-# pride-vodka-rn
+# pride-vodka-react
  
